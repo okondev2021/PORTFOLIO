@@ -1045,6 +1045,7 @@ footer .footer_container p{
         margin-left: 0em;
         padding: 0em;
         margin: 0em;
+        margin-top: 0.7em;
     }
 
     .contact .contact_info .contact_infoForm form input[type="email"],.contact .contact_info .contact_infoForm form input[type="text"]{
