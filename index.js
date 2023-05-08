@@ -251,7 +251,7 @@ document.addEventListener('DOMContentLoaded',function(){
     let hourNow = today.getHours()
     const greeting = document.querySelector('.greetings')
 
-    if (hourNow >= 5 && hourNow < 12){
+    if (hourNow >= 0 && hourNow < 12){
         greeting.innerHTML = 'GOOD MORNING'
     }
     else if(hourNow >= 12 && hourNow < 16){
