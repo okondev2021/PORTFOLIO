@@ -191,6 +191,10 @@ main header .nav_right nav ul li:nth-child(4){
     transition: 0.6s 0.9s ease-in-out;
 }
 
+main header .nav_right nav ul li:nth-child(5){
+    transition: 0.6s 1.2s ease-in-out;
+}
+
 main header .nav_right nav ul .reveal_links {
     opacity: 1;
     transform: translateY(0px);
@@ -687,6 +691,10 @@ main .hero .dot_effect .dots{
 
 .projects .projects_container .project_card .project_cardFooter a:nth-child(2){
     color: var(--cyan); 
+}
+
+.projects .projects_container .project_card .project_cardFooter i{
+    color: var(--cyan);
 }
 
 

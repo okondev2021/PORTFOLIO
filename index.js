@@ -261,16 +261,4 @@ document.addEventListener('DOMContentLoaded',function(){
         greeting.innerHTML = 'GOOD EVENING'
     }
 
-
-
-
-    
-
-
-
-
-
-
-
-    
 })
