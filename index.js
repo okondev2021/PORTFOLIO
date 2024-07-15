@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
     // TYPING EFFECT with CHATGPT
 
-    const lines = ["20 years old", "Web developer"]
+    const lines = ["20 years old Web developer"]
 
     let currentLine = 0
     let currentCharacter = 0
@@ -218,11 +218,11 @@ document.addEventListener('DOMContentLoaded',function(){
             const typingElement = document.querySelector('.typing_effect')
             typingElement.innerHTML += lines[currentLine].charAt(currentCharacter)
             currentCharacter++
-            setTimeout(typeLine,200)
+            setTimeout(typeLine,100)
         }
         else{
             currentCharacter--
-            setTimeout(eraseLine, 200)
+            setTimeout(eraseLine, 50)
         }
 
     }
