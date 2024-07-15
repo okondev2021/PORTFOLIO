@@ -750,6 +750,7 @@ main .hero .dot_effect .dots{
     margin-bottom: 10px;
     display: inline;
     width: 30%;
+    text-transform: lowercase;
 }
 
 .contact .contact_info .contact_infoForm{

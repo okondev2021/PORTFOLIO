@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
     // TYPING EFFECT with CHATGPT
 
-    const lines = ["19 years old", "Full stack web developer"]
+    const lines = ["20 years old", "Web developer"]
 
     let currentLine = 0
     let currentCharacter = 0
