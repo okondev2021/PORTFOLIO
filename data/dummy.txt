@@ -1,0 +1,83 @@
+                <!-- <div class="project_card">
+                    <img src="./images/PROJECTS/audiophile.png" alt="audiophile project">
+                    <div class="project_cardInfo">
+                        <h4>AUDIOPHILE</h4>
+                        <ul>
+                            <li class="variable_color">Html</li>
+                            <li class="variable_color">Css</li>
+                            <li class="variable_color">Django</li>
+                            <li class="variable_color">Javascript</li>
+                        </ul>
+                    </div>
+                    <div class="project_cardFooter">
+                        <a class="variable_background" href="https://audiophile-jedytech.up.railway.app/">Live demo</a>
+                        <a class="variable_color" href="https://github.com/okondev2021/Audiophile"><i class="variable_color bi bi-code-slash"></i> Source Code</a>
+                    </div>
+                </div> -->
+
+                <!-- <div class="project_card">
+                    <img src="./images/PROJECTS/network.png" alt="cs50 network ">
+                    <div class="project_cardInfo">
+                        <h4>TWITTER CLONE</h4>
+                        <ul>
+                            <li class="variable_color">Html</li>
+                            <li class="variable_color">Css</li>
+                            <li class="variable_color">Django</li>
+                            <li class="variable_color">Javascript</li>
+                        </ul>
+                    </div>
+                    <div class="project_cardFooter">
+                        <a class="variable_background" href="https://youtu.be/FsVvwte-KG8">Demo</a>
+                        <a class="variable_color" href="https://github.com/okondev2021/Twitter-clone"><i class="variable_color bi bi-code-slash"></i> Source Code</a>
+                    </div>
+                </div> -->
+
+                <!-- <div class="project_card">
+                    <img src="./images/PROJECTS/multi-form.png" alt="frontend mentor multi-form">
+                    <div class="project_cardInfo">
+                        <h4>MULTI-FORM</h4>
+                        <ul>
+                            <li class="variable_color">Html</li>
+                            <li class="variable_color">Css</li>
+                            <li class="variable_color">Javascript</li>
+                        </ul>
+                    </div>
+                    <div class="project_cardFooter">
+                        <a class="variable_background" href="https://multiform-jeditech.netlify.app/">Live demo</a>
+                        <a class="variable_color" href="https://github.com/okondev2021/MULTI-FORM-PROJECT-FRONTEND-MENTOR"><i class="variable_color bi bi-code-slash"></i> Source Code</a>
+                    </div>
+                </div> -->
+
+
+
+                <!-- <div class="project_card">
+                    <img src="./images/PROJECTS/huddle.png" alt="frontend mentor huddle project">
+                    <div class="project_cardInfo">
+                        <h4>HUDDLE</h4>
+                        <ul>
+                            <li class="variable_color">Html</li>
+                            <li class="variable_color">Css</li>
+                            <li class="variable_color">Javascript</li>
+                        </ul>
+                    </div>
+                    <div class="project_cardFooter">
+                        <a class="variable_background" href="https://unrivaled-pegasus-73018a.netlify.app/">Live demo</a>
+                        <a class="variable_color" href="https://github.com/okondev2021/Huddle-landing-page-with-curved-sections/tree/main/frontend_project1"><i class="variable_color bi bi-code-slash"></i> Source Code</a>
+                    </div>
+                </div> -->
+
+                <!-- <div class="project_card">
+                    <img src="./images/PROJECTS/country.png" alt="frontend mentor huddle project">
+                    <div class="project_cardInfo">
+                        <h4>REST COUNTRIES API</h4>
+                        <ul>
+                            <li class="variable_color">React</li>
+                            <li class="variable_color">Tailwind</li>
+                        </ul>
+                    </div>
+                    <div class="project_cardFooter">
+                        <a class="variable_background" href="https://jedycountryapp.netlify.app/">Live demo</a>
+                        <a class="variable_color" href="https://github.com/okondev2021/lazyCountryApi"><i class="variable_color bi bi-code-slash"></i> Source Code</a>
+                    </div>
+                </div> -->
+                

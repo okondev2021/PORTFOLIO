@@ -841,14 +841,6 @@ footer .footer_container p{
 }
 
 
-
-
-
-
-
-
-
-
 @media (max-width:768px){
     
     /* ABOUT */
@@ -898,14 +890,6 @@ footer .footer_container p{
 
 
 }
-
-
-
-
-
-
-
-
 
 
 /* mobile device */
@@ -1102,13 +1086,6 @@ footer .footer_container p{
         display: none;
     }    
 }
-
-
-
-
-
-
-
 
 
 @media (max-width:900px) and (orientation:landscape) {
