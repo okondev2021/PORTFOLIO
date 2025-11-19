@@ -667,15 +667,22 @@ main .hero .dot_effect .dots{
 
 .projects .projects_container .project_card .project_cardInfo ul li{
     color: var(--cyan);
-    margin: 1em;
+    margin: 0.7em;
     margin-left: 0em;
+    font-size: 14px;
+}
+
+.projects .projects_container .project_card .project_description {
+    padding: 0em 1em;
+    padding-bottom: 1em;
 }
 
 .projects .projects_container .project_card .project_cardFooter{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     padding: 0em 1em;
+    flex-grow: 1;
 }
 
 .projects .projects_container .project_card .project_cardFooter a{
@@ -691,6 +698,7 @@ main .hero .dot_effect .dots{
 
 .projects .projects_container .project_card .project_cardFooter a:nth-child(2){
     color: var(--cyan); 
+        padding: 0.7em 1.5em;
 }
 
 .projects .projects_container .project_card .project_cardFooter i{
@@ -841,59 +849,11 @@ footer .footer_container p{
 }
 
 
-@media (max-width:768px){
-    
-    /* ABOUT */
-
-    .about p{
-        width: 100%;
-    }
-
-
-    /* TECH STACK */
-
-    .tech_stack .tools{
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-
-    /* PROJECTS */
-
-    .projects .projects_container{
-        grid-template-columns: repeat(2,1fr);
-    }
-
-
-    /* CONTACT */
-
-    .contact .contact_info{
-        grid-gap: 1em;
-        width: 100%;
-    }
-
-    .contact .contact_info .contact_infoForm form input[type="email"],.contact .contact_info .contact_infoForm form input[type="text"]{
-        width: 100%;
-    }
-
-    .contact .contact_info .contact_infoForm form .textarea_container textarea{
-        width: 100%;
-        height: 120px;
-    }
-
-    /* FOOTER */
-
-    footer{
-    background-color: var(--light-gray);
-    margin-top: 4em;
-    display: block;
-    }
-
-
-}
+/*  */
 
 
 /* mobile device */
-@media (max-width:500px) {
+@media (max-width:768px) {
 
     /* GENERAL */
 
